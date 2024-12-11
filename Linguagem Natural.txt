@@ -1,0 +1,6 @@
+1 - Início
+2 - Solicita ao utilizador o A
+3 - Solicita ao utilizador o B
+4 - Calcula a soma entre A e B
+5 - Apresenta o resultado da soma na tela
+6 - Fim
